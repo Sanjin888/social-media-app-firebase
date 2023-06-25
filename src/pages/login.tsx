@@ -12,6 +12,7 @@ export const Login = () => {
     console.log(result);
     navigate("/");
   };
+  
   return (
     <div>
       <p>Sign In With Google To Continue</p>
